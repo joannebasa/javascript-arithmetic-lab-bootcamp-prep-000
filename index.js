@@ -23,12 +23,3 @@ function dec(n) {
   n--;
   return n;
 }
-
-function makeInt(n) {
- return n;
-}
-
-function preserveDecimal(n) {
-  n = Math.floor();
-  return n;
-}
