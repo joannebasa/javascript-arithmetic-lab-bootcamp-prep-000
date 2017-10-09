@@ -25,7 +25,6 @@ function dec(n) {
 }
 
 function makeInt(n) {
- 'n' = n;
  return n;
 }
 
