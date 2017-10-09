@@ -3,7 +3,6 @@ var a, b
 beforeEach(function() {
   a = Math.floor(Math.random() * 1000)
   b = Math.floor(Math.random() * 1000)
-  n = 101;
 })
 
 it('add(a, b) adds two numbers and returns the result', function() {
