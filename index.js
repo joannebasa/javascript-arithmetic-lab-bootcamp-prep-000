@@ -29,5 +29,6 @@ function makeInt(n) {
 }
 
 function preserveDecimal(n) {
-  return n ;
+  n = Math.floor();
+  return n;
 }
